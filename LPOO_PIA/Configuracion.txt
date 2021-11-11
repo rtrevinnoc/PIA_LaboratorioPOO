@@ -1,0 +1,4 @@
+#Ingresar datos de la base de datos en MySQL
+url = jdbc:mysql://localhost:3306/persona?useSSL=false
+user = root
+password = X
