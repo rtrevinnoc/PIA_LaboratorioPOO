@@ -158,6 +158,9 @@
                     <div class="button">
                         <input type="submit" name="btn" value="Crear">
                     </div>
+                    <div class="button">
+                        <input type="submit" name="btn" value="Limpiar">
+                    </div>
                     <center><div class="details" >Para consultar un registro ingresar Teléfono o Email</div></center>
 
                     <div class="button">
